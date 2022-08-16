@@ -9,4 +9,4 @@
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=yusufdrymz&column=9&theme=gruvbox&no-frame=true"/>
 
-![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufdrymz=true&theme=tokyonight)
+![Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufdrymz&show_icons=true&theme=tokyonight)
